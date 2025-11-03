@@ -1,7 +1,6 @@
-from dotenv import load_dotenv
-load_dotenv(".env")
+# from dotenv import load_dotenv
+# load_dotenv(".env")
 from fastapi import FastAPI
-
 from routes import base
 
 
