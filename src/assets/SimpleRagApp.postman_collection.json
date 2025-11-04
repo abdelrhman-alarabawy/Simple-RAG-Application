@@ -1,0 +1,48 @@
+{
+	"info": {
+		"_postman_id": "129c7d51-28e3-4346-a988-8dbd084ae87c",
+		"name": "SimpleRagApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20300522"
+	},
+	"item": [
+		{
+			"name": "simple-Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "app",
+			"value": ""
+		}
+	]
+}
